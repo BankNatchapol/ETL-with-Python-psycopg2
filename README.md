@@ -26,7 +26,7 @@
   <h3 align="center">ETL Pipeline with Python psycopg2</h3>
 
   <p align="center">
-    Create a ETL process for Data Modeling task with Python psycopg2
+    Create a ETL Pipeline for Data Modeling task with Python psycopg2
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
