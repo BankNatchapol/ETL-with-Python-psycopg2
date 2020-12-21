@@ -23,7 +23,7 @@
 <br />
 <p align="center">
 
-  <h3 align="center">ETL with Python psycopg2</h3>
+  <h3 align="center">ETL Pipeline with Python psycopg2</h3>
 
   <p align="center">
     Create a ETL process for Data Modeling task with Python psycopg2
@@ -44,16 +44,17 @@
     <li>
       <a href="#about-the-project">About The Project</a>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
     <li><a href="#dataset">Dataset</a>
         <ul>
         <li><a href="#song-dataset">Song Dataset</a></li>
         <li><a href="#log-dataset">Log Dataset</a></li>
+      </ul>
+    </li>
+<li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#installation">Installation</a></li>
+        <li><a href="#etl-processes">ETL Processes</a></li>
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
