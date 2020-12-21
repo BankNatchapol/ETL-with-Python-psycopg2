@@ -70,14 +70,6 @@ A startup called Sparkify wants to analyze the data they've been collecting on s
 They'd like a data engineer to create a Postgres database with tables designed to optimize queries on song play analysis, and bring you on the project. Your role is to create a database schema and ETL pipeline for this analysis. You'll be able to test your database and ETL pipeline by running queries given to you by the analytics team from Sparkify and compare your results with their expected results.
 
 
-<!-- GETTING STARTED -->
-## Getting Started
-
-### Installation
-install package with requirements.txt
-
-
-
 <!-- Dataset -->
 ## Dataset
 ### Song Dataset
@@ -100,6 +92,17 @@ The log files in the dataset you'll be working with are partitioned by year and 
 And below is an example of what the data in a log file, 2018-11-12-events.json, looks like.
 
 <img src="https://video.udacity-data.com/topher/2019/February/5c6c15e9_log-data/log-data.png"/>
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+### Installation
+install package with requirements.txt
+
+### ETL Processes
+- 1.run python create_tables.py
+- 2.run python etl.py
+- 3.watch results in test.ipynb
 
 <!-- CONTACT -->
 ## Contact
