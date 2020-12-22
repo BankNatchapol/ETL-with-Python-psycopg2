@@ -96,7 +96,8 @@ user_table_insert = ("""
         gender,
         level
     ) values (%s, %s, %s, %s, %s)
-    ON CONFLICT DO NOTHING
+    ON CONFLICT (user_id) DO 
+        update set user_id = users.user_id 
 """)
 
 song_table_insert = ("""
