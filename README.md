@@ -94,6 +94,9 @@ And below is an example of what the data in a log file, 2018-11-12-events.json, 
 
 <img src="https://video.udacity-data.com/topher/2019/February/5c6c15e9_log-data/log-data.png"/>
 
+### Data Model
+This is my database Star Schema.
+<img src="https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/38715/1608661799/Song_ERD.png"/>
 <!-- GETTING STARTED -->
 ## Getting Started
 
