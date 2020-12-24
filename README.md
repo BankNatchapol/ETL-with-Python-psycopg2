@@ -29,9 +29,9 @@
     Create a ETL Pipeline for Data Modeling task with Python psycopg2
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/BankNatchapol/ETL-with-Python-psycopg2/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/BankNatchapol/ETL-with-Python-psycopg2/issues">Request Feature</a>
   </p>
 </p>
 
